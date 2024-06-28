@@ -1,2 +1,3 @@
 # Jawla-backend
-Implementation du backend de jawla une application qui promouvoit le tourisme algerien 
+
+Jawla is a web application that promotes Algerian tourism. The backend is developed using Node.js.
